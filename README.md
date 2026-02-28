@@ -19,8 +19,6 @@ Adds emojis responsibly. Sometimes.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 
-*(Yes, everyone uses these. That’s the joke.)*
-
 ---
 
 ## Senior Frontend Topics™ 🧠📐⚙️
