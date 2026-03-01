@@ -1,4 +1,4 @@
-# Senior-ish Frontend Engineer 🧑‍💻✨📦
+# Software Engineer 🧑‍💻✨📦
 
 Builds web interfaces that scale past demos, survive real users, and remain understandable after multiple quarters.  
 Adds emojis responsibly. Sometimes.
